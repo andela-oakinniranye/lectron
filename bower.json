@@ -1,0 +1,29 @@
+{
+  "name": "Lectron",
+  "authors": [
+    "Oreoluwa Akinniranye <oreoluwa.akinniranye@andela.com>"
+  ],
+  "description": "There is a lot we can do together. Meet people who share common interest with you.",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "lectron",
+    "connect",
+    "common",
+    "interest"
+  ],
+  "license": "MIT",
+  "homepage": "http://lectron.co",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
